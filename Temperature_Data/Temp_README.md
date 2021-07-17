@@ -1,8 +1,8 @@
 This folder contains the temperature data recorded on the five summits of Mount Clarke from 2002 - present.
 
-For clarification on how temperature data where collected, see the GLORIA manual (https://gloria.ac.at/downloads/Manual_5thEd_ENG.pdf)
+For clarification on how temperature data were collected, see the GLORIA manual (https://gloria.ac.at/downloads/Manual_5thEd_ENG.pdf)
 
-This data has previously been used in the following publications:
+This data has previously been analysed in the following publications:
 
 1. Pickering, C., Hill, W., & Green, K. (2008). Vascular plant diversity and climate change in the alpine zone of the Snowy Mountains, Australia. Biodiversity and Conservation, 17(7), 1627-1644.
 2. Pickering, C. M., & Green, K. (2009). Vascular plant distribution in relation to topography, soils and micro-climate at five GLORIA sites in the Snowy Mountains, Australia. Australian Journal of Botany, 57(3), 189-199.
