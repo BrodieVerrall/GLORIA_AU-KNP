@@ -1,0 +1,88 @@
+GLORIA ID 	2004 species list			New species from 2011			New species from 2019
+2263	Acaena (sp.A in Harden&Rodd 1990; undescribed)		1	Astelia psychrocharis  F. Muell		1	Euchiton argentifolius 
+2264	Aciphylla glacialis (F.Muell.) Benth.		2	Australopyrum velutinum (Nees) B.K.Simon		2	Isolepis sp. in AU-KNP
+2265	Aciphylla simplicifolia (F.Muell.) Benth.		3	Epacris paludosa R.Br.		3	Oreomyhrris breviculmis
+2266	Agrostis  in AU-KNP		4	Epilobium gunnianum Hausskn.		4	Sphagnum cristatum
+2267	Asperula gunnii Hook.f.		5	Epilobium tasmanicum Hausskn			
+2268	Baeckea gunniana Schauer		6	Euchiton fordianus (M.Grey) P.S.Short			
+2269	Brachyscome (aff.tenuiscapa Hook.f.; sp.3 in Short 1999; undescribed)		7	Geranium potentilloides L'Her. ex DC. Var.			
+2270	Brachyscome obovata G.L.R.Davis		8	Helichrysum scorpioides Labill.			
+2271	Brachyscome spathulata Gaudich. subsp. spathulata		9	Neopaxia australasica (Hook.f.) O.Nilsson			
+2272	Cardamine lilacina Hook. s.l.		10	Olearia algida N.A.Wakef.			
+2273	Carex breviculmis R.Br.		11	Orities lancifolia F.Muell			
+2274	Carex hebes Nelmes		12	Podocarpus lawrencei Hook.f.			
+2275	Celmisia costiniana M.Gray & Given		13	Stackhousia pulvinaris F.Muell			
+2276	Celmisia pugioniformis M.Gray & Given		14	Stylidium sp. (aff. graminifolium Sw)			
+2277	Chionogentias muelleriana L.G.Adams subsp. alpestris L.G.Adams		15	Wahlenbergia ceracea Lothian			
+2148	Chionohebe densifolia (F.Muell.) B.G.Briggs & Ehrend.		16	Myosotis sp.			
+2278	Colobanthus affinis (Hook.) Hook.f.						
+2279	Colobanthus nivicola M.Gray						
+2280	Colobanthus pulvinatus F.Muell.						
+2281	Cotula alpina (Hook.f.) Hook.f.						
+2282	Craspedia  in AU-KNP						
+2283	Craspedia (sp.B in Costin et al.1979; undescribed)						
+2284	Craspedia costiniana J.Everett & Joy Thomps.						
+2285	Craspedia lamicola J.Everett & Joy Thomps.						
+2286	Craspedia maxgrayi J.Everett & Joy Thomps.						
+2287	Deyeuxia crassiuscula Vickery						
+2288	Empodisma minus (Hook.f.) L.A.S.Johnson & D.F.Cutler						
+2289	Epacris microphylla R.BR. s.l.						
+2290	Epacris petrophila Hook.f.						
+2291	Erigeron bellidioides (Hook.f.) S.J.Forbes & D.I.Morris						
+2292	Erigeron nitidus S.J.Forbes						
+2293	Euchiton nitidulus (Hook.f.) Anderb.						
+2294	Euphrasia alsa F.Muell.						
+2295	Euphrasia collina R.Br. subsp. diversicolor W.R.Barker						
+2296	Euphrasia collina R.Br. subsp. lapidosa W.R.Barker						
+2297	Ewartia nubigena (F.Muell.) Beauverd						
+2298	Grevillea australis R.Br.						
+2299	Hypochoeris radicata L.						
+2300	Kunzea muelleri Benth.						
+2301	Leptorhynchos squamatus (Labill.) Less. s.l.						
+2302	Leucochrysum albicans (A.Cunn.) subsp. alpinum (F.Muell.) Paul G.Wilson						
+2303	Leucopogon montanus (R.Br.) J.H.Willis						
+2304	Luzula  in AU-KNP						
+2305	Luzula acutifolia H.Nordensk. subsp. nana Edgar						
+2306	Luzula alpestris H.Nordensk.						
+2307	Luzula australasica Steud. subsp. dura (Edgar) M.E.Jansen						
+2308	Luzula novae-cambriae Gand.						
+2168	Lycopodium fastigiatum R.Br. (1810)						
+2309	Melicytus (sp. in Costin et al. 2000; undescribed)						
+2310	Microseris lanceolata (Walp.) Sch.Bip.						
+2311	Olearia phlogopappa (Labill.) DC. var. flavescens (Hutch.) J.H.Willis						
+2312	Olearia phlogopappa (Labill.) DC. var. subrepanda (DC.) J.H.Willis						
+2313	Oreomyrrhis eriopoda (DC.) Hook.f.						
+2119	Pentachondra pumila (J.R.Forst. & G.Forst.) R.Br.						
+2314	Phebalium ovatifolium F.Muell.						
+2315	Pimelea alpina F.Muell. ex Meisn.						
+2316	"Plantago euryphylla B.G.Briggs, Carolin & Pulley"						
+2317	Poa  in AU-KNP						
+2318	Poa costiniana Vickery						
+2319	Poa fawcettiae Vickery						
+2320	Poa hiemata Vickery						
+2321	Poa saxicola R.Br.						
+2322	Podolepis robusta (Maiden & Betche) J.H.Willis						
+2323	Polystichum proliferum (R.Br.) C.Presl						
+2324	Prasophyllum  in AU-KNP						
+2325	Prasophyllum alpestre D.L.Jones						
+2326	Prasophyllum tadgellianum R.S.Rogers						
+2327	Pratia surrepens (Hook.f.) E.Wimm. s.l.						
+2328	Prostanthera cuneata Benth.						
+2329	Ranunculus acrophilus B.G.Briggs						
+2330	Ranunculus graniticola Melville						
+2331	Ranunculus gunnianus Hook.						
+2332	Ranunculus muelleri Benth.						
+2333	Richea continentis B.L.Burtt						
+792	Rumex acetosella L.						
+2334	Rytidosperma  in AU-KNP						
+2335	Rytidosperma nudiflorum (P.Morris) Connor & Edgar						
+2185	Rytidosperma pumilum (Kirk) Connor & Edgar (1987)						
+2336	Scleranthus biflorus (J.R.Forst. & G.Forst.) Hook.f.						
+2337	Scleranthus singuliflorus (F.Muell.) Mattf.						
+2338	Senecio gunnii (Hook.f.) Belcher						
+2339	Senecio pectinatus DC  var. major F.Muell. ex Belcher						
+2340	Senecio pinnatifolius A.Rich. var. pleiocephalus (Rodway) Belcher						
+2341	Trisetum spicatum (L.) K.Richt. subsp. australiense Hulten						
+2342	Uncinia  in AU-KNP						
+2343	Viola betonicifolia Sm. subsp. betonicifolia						
+							
